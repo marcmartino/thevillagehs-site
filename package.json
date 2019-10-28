@@ -40,6 +40,7 @@
     ]
   },
   "devDependencies": {
+    "@types/react-helmet": "^5.0.13",
     "gh-pages": "^2.1.1"
   }
 }

@@ -12,6 +12,7 @@ const App: React.FC = () => {
         <meta charSet="utf-8" />
         <title>The Village Highschool</title>
         <link rel="canonical" href="http://thevillagehs.org" />
+        <meta name="description" content="The Village HS Description" />
       </Helmet>
       <Homepage />
     </div>
