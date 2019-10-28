@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/thevillagehs-site/static/css/main.dfca195d.chunk.css",
+    "main.js": "/thevillagehs-site/static/js/main.bac0afab.chunk.js",
+    "main.js.map": "/thevillagehs-site/static/js/main.bac0afab.chunk.js.map",
+    "runtime-main.js": "/thevillagehs-site/static/js/runtime-main.b5b8692c.js",
+    "runtime-main.js.map": "/thevillagehs-site/static/js/runtime-main.b5b8692c.js.map",
+    "static/css/2.e4b89ac4.chunk.css": "/thevillagehs-site/static/css/2.e4b89ac4.chunk.css",
+    "static/js/2.30b6d6d1.chunk.js": "/thevillagehs-site/static/js/2.30b6d6d1.chunk.js",
+    "static/js/2.30b6d6d1.chunk.js.map": "/thevillagehs-site/static/js/2.30b6d6d1.chunk.js.map",
+    "index.html": "/thevillagehs-site/index.html",
+    "precache-manifest.58e7d5663ce7a8a3e4f9c95476a8aea3.js": "/thevillagehs-site/precache-manifest.58e7d5663ce7a8a3e4f9c95476a8aea3.js",
+    "service-worker.js": "/thevillagehs-site/service-worker.js",
+    "static/css/2.e4b89ac4.chunk.css.map": "/thevillagehs-site/static/css/2.e4b89ac4.chunk.css.map",
+    "static/css/main.dfca195d.chunk.css.map": "/thevillagehs-site/static/css/main.dfca195d.chunk.css.map",
+    "static/media/semantic.min.css": "/thevillagehs-site/static/media/outline-icons.ef60a4f6.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b5b8692c.js",
+    "static/css/2.e4b89ac4.chunk.css",
+    "static/js/2.30b6d6d1.chunk.js",
+    "static/css/main.dfca195d.chunk.css",
+    "static/js/main.bac0afab.chunk.js"
+  ]
+}
