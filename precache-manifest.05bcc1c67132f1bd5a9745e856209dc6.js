@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6eb8e7d4bf555c135c50c04e5f2021eb",
+    "revision": "486e34ba4b9f241f609796e1f409a368",
     "url": "/thevillagehs-site/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/thevillagehs-site/static/css/2.e4b89ac4.chunk.css"
   },
   {
-    "revision": "af86023bf932db761010",
+    "revision": "45a91737fb804e222141",
     "url": "/thevillagehs-site/static/css/main.dfca195d.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/thevillagehs-site/static/js/2.30b6d6d1.chunk.js"
   },
   {
-    "revision": "af86023bf932db761010",
-    "url": "/thevillagehs-site/static/js/main.b3244c97.chunk.js"
+    "revision": "45a91737fb804e222141",
+    "url": "/thevillagehs-site/static/js/main.f0a02caf.chunk.js"
   },
   {
     "revision": "657712f62391ee643036",
