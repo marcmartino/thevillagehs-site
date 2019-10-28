@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/thevillagehs-site/static/css/main.dfca195d.chunk.css",
-    "main.js": "/thevillagehs-site/static/js/main.f0a02caf.chunk.js",
-    "main.js.map": "/thevillagehs-site/static/js/main.f0a02caf.chunk.js.map",
+    "main.js": "/thevillagehs-site/static/js/main.67efa454.chunk.js",
+    "main.js.map": "/thevillagehs-site/static/js/main.67efa454.chunk.js.map",
     "runtime-main.js": "/thevillagehs-site/static/js/runtime-main.b5b8692c.js",
     "runtime-main.js.map": "/thevillagehs-site/static/js/runtime-main.b5b8692c.js.map",
     "static/css/2.e4b89ac4.chunk.css": "/thevillagehs-site/static/css/2.e4b89ac4.chunk.css",
-    "static/js/2.30b6d6d1.chunk.js": "/thevillagehs-site/static/js/2.30b6d6d1.chunk.js",
-    "static/js/2.30b6d6d1.chunk.js.map": "/thevillagehs-site/static/js/2.30b6d6d1.chunk.js.map",
+    "static/js/2.0b51e967.chunk.js": "/thevillagehs-site/static/js/2.0b51e967.chunk.js",
+    "static/js/2.0b51e967.chunk.js.map": "/thevillagehs-site/static/js/2.0b51e967.chunk.js.map",
     "index.html": "/thevillagehs-site/index.html",
-    "precache-manifest.05bcc1c67132f1bd5a9745e856209dc6.js": "/thevillagehs-site/precache-manifest.05bcc1c67132f1bd5a9745e856209dc6.js",
+    "precache-manifest.f2276226363d0da6ea279aa59d029524.js": "/thevillagehs-site/precache-manifest.f2276226363d0da6ea279aa59d029524.js",
     "service-worker.js": "/thevillagehs-site/service-worker.js",
     "static/css/2.e4b89ac4.chunk.css.map": "/thevillagehs-site/static/css/2.e4b89ac4.chunk.css.map",
     "static/css/main.dfca195d.chunk.css.map": "/thevillagehs-site/static/css/main.dfca195d.chunk.css.map",
@@ -18,8 +18,8 @@
   "entrypoints": [
     "static/js/runtime-main.b5b8692c.js",
     "static/css/2.e4b89ac4.chunk.css",
-    "static/js/2.30b6d6d1.chunk.js",
+    "static/js/2.0b51e967.chunk.js",
     "static/css/main.dfca195d.chunk.css",
-    "static/js/main.f0a02caf.chunk.js"
+    "static/js/main.67efa454.chunk.js"
   ]
 }
